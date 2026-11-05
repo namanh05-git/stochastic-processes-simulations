@@ -40,15 +40,6 @@ Carlo. Everything is implemented from scratch with `numpy`; no datasets are need
 ├── requirements.txt
 ```
 
-## Running
-
-```bash
-git clone <this-repo-url>
-cd <repo-name>
-pip install -r requirements.txt
-jupyter notebook notebooks/
-```
-
 Apart from the deterministic generators in notebook 01, the notebooks don't fix a random seed, so exact values differ slightly between runs.
 Some notebooks refer to separate PDF write-ups for mathematical derivations (e.g. the inverse
 transform formulas); those are not included here.
