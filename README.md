@@ -38,7 +38,6 @@ Carlo. Everything is implemented from scratch with `numpy`; no datasets are need
 .
 ├── README.md
 ├── requirements.txt
-└── notebooks/
 ```
 
 ## Running
